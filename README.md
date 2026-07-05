@@ -44,7 +44,6 @@ visitor@github:~$ cat ./about_me.txt
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 
 **AI / ML**
 <br/>
