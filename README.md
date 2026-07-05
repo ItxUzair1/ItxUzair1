@@ -1,70 +1,118 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Uzair;AI+%2F+ML+Engineer;LangChain+%7C+LangGraph+%7C+RAG+Systems;Building+intelligent+systems+that+ship" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/focus-Generative%20AI%20%2F%20LLM%20Systems-blue?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff41&height=220&section=header&text=Muhammad%20Uzair&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Generative%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+RAG+%2F+LLM+powered+systems;LangChain+%7C+LangGraph+%7C+FastAPI;Turning+ideas+into+production+AI;Open+to+AI%2FML+Roles+%26+Collaborations" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/focus-Generative%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=ItxUzair1&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
 
 ```bash
 visitor@github:~$ cat ./about_me.txt
 
   Name     : Muhammad Uzair
-  Role     : AI / ML Engineer · Generative AI
-  Uni      : BS Computer Science, IBA Sukkur
+  Role     : AI / ML Engineer · Generative AI Developer
+  Degree   : BS Computer Science — IBA Sukkur  (CGPA 3.7/4.0)
   Focus    : LangChain · LangGraph · RAG Pipelines · Vector DBs
   Status   : [██████████░░] Building & shipping AI products
-  Collab   : OPEN — reach out anytime ✅
+  Collab   : OPEN — reach out anytime 
 ```
 
----
+<br/>
 
-### > tech.stack
+##  About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,langchain,nextjs,react,git,github,postgres,linux" />
-</p>
+-  Computer Science graduate from **IBA Sukkur**, specializing in **AI/ML & Generative AI**
+-  Currently building **Koyomail** — an intelligent Outlook add-in powered by the Microsoft Graph API
+-  Built **SIBA Chatbot**, a RAG-based institutional assistant using LangChain, LangGraph, FastAPI & Next.js
+-  Deepening my skills in **agentic AI systems**, production-grade LLM architecture & MLOps
+-  Available for **freelance ML/AI projects** on Fiverr and open to full-time roles
+-  Fun fact: I enjoy turning raw ideas into clean, functional, production-ready software
 
-**AI/ML:** LangChain · LangGraph · RAG · NLP · XGBoost · MLOps
-**Backend:** FastAPI · Vector Databases · Docker
-**Other:** Git/GitHub · CI basics · REST APIs
+<br/>
 
----
+## 🛠️ Tech Stack
 
-### > featured.projects
+<div align="center">
 
-```bash
-visitor@github:~$ ls ./projects
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 
-📁 SIBA-Chatbot        RAG-based institutional AI assistant (LangChain, LangGraph, FastAPI, Next.js)
-📁 Koyomail            Outlook add-in for smart email filing via Microsoft Graph API
-📁 Phishing-Detection  MLOps pipeline with data drift monitoring (Flask, Docker)
-📁 Hate-Speech-Model   NLP classifier using Word2Vec + XGBoost + NLTK
-```
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20DBs-6C63FF?style=for-the-badge" />
 
----
+**Backend & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,postgres,linux,nextjs,react&theme=dark" />
 
-### > github.stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ItxUzair1&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItxUzair1&layout=compact&theme=radical&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItxUzair1&theme=radical&hide_border=true" />
-</p>
+##  Featured Projects
 
----
+<div align="center">
 
-### > connect
+<a href="https://github.com/ItxUzair1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ItxUzair1&repo=SIBA-Chatbot&theme=chartreuse-dark&hide_border=true" />
+</a>
+<a href="https://github.com/ItxUzair1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ItxUzair1&repo=Koyomail&theme=chartreuse-dark&hide_border=true" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-</p>
+</div>
 
-<p align="center"><i>Building clean, functional AI software 🟢</i></p>
+| Project | Description | Stack |
+|---|---|---|
+|  **SIBA Chatbot** | RAG-based institutional AI assistant — Final Year Project | LangChain, LangGraph, FastAPI, Next.js |
+|  **Koyomail** | Outlook add-in for smart AI-driven email filing | Microsoft Graph API, Node.js, Railway |
+|  **Phishing Detection System** | ML pipeline with drift monitoring & MLOps | Flask, Docker, XGBoost |
+|  **Hate Speech Detection** | NLP text classification model | Word2Vec, XGBoost, NLTK |
+
+<br/>
+
+##  GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ItxUzair1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItxUzair1&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItxUzair1&theme=chartreuse-dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+##  Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ItxUzair1&theme=algolia&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+##  Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f2027&height=100&section=footer" width="100%"/>
