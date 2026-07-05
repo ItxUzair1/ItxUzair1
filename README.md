@@ -63,16 +63,6 @@ visitor@github:~$ cat ./about_me.txt
 
 ##  Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ItxUzair1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ItxUzair1&repo=SIBA-Chatbot&theme=chartreuse-dark&hide_border=true" />
-</a>
-<a href="https://github.com/ItxUzair1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ItxUzair1&repo=Koyomail&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-</div>
 
 | Project | Description | Stack |
 |---|---|---|
