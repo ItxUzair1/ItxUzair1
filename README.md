@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff41&height=220&section=header&text=Muhammad%20Uzair&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Generative%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+RAG+%2F+LLM+powered+systems;LangChain+%7C+LangGraph+%7C+FastAPI;Turning+ideas+into+production+AI;Open+to+AI%2FML+Roles+%26+Collaborations" alt="Typing SVG" />
 
