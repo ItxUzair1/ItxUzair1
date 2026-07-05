@@ -38,7 +38,7 @@ visitor@github:~$ cat ./about_me.txt
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -84,34 +84,13 @@ visitor@github:~$ cat ./about_me.txt
 
 <br/>
 
-##  GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItxUzair1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItxUzair1&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItxUzair1&theme=chartreuse-dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-##  Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ItxUzair1&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
 
 ##  Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-uzair-4174752a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
